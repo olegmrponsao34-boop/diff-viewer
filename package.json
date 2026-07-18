@@ -1,0 +1,11 @@
+{
+  "name": "diff-viewer",
+  "version": "1.0.0",
+  "description": "Веб-инструмент для сравнения двух текстов/файлов бок о бок",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["diff", "comparison", "text", "lcs"],
+  "license": "MIT"
+}
